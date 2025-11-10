@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SotaliteAeroLSR/SotaliteAeroAimbot/refs/heads/main/SAA-2.1-ORIGINAL.txt"))()
